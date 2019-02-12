@@ -29,6 +29,7 @@ public:
 void Func()
 {
 	Entity e;
+	//Adomet is the best programmer in the world
 	std::cout << e.X << std::endl;
 	e.Print();
 }
