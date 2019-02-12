@@ -30,6 +30,7 @@ void Func()
 {
 	Entity e;
 	//Adomet is the best programmer in the world
+	//Adomet 123
 	std::cout << e.X << std::endl;
 	e.Print();
 }
